@@ -1,0 +1,5 @@
+numpy
+ipywidgets
+nbinteract
+matplotlib==3.*
+IPhyton.display
