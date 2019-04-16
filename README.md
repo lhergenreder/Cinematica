@@ -1,1 +1,1 @@
-# Cinematica
+# Cinemática
